@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Cloud Computing, Backend Engineering**
 
-- 👨‍💻 Some of my projects are available at [www.anthonysalib.me](www.anthonysalib.me)
+- 👨‍💻 Some of my projects are available at [www.anthonysalib.me](https://anthonysalib.me)
 
 - 📫 How to reach me **asalib02@gmail.com**
 
