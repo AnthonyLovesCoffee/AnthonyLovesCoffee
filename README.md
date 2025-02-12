@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">An aspiring Software and ML Engineer from Ireland.</h3>
+<h3 align="center">An aspiring Network and Software Engineer from Ireland.</h3>
 
 - 🌱 I’m currently learning **Network Engineering, Cloud Computing, Backend Engineering**
 
